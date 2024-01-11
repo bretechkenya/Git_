@@ -2,6 +2,9 @@
 
 
 Branch
-git branch - List current branches
+
 
 ## GIT BRANCHING
+
+git branch - List current branches
+git checkout <branchname> - creates a branch locally
