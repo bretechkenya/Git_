@@ -1,7 +1,7 @@
-# ABOUT
+# GIT MERGING AND GIT BRANCHING
 
-About initializing Github repository from scratch using vscode editor
 
-## Untracked state
+Branch
+git branch - List current branches
 
-Let's track this file
+## GIT BRANCHING
